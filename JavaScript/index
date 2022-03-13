@@ -1,0 +1,9 @@
+<?php
+
+$a=$_post["penz"];
+$b=$a/4;
+
+echo $a,"egyenlo ennyi" ,$b "dollarral" ;
+
+?>
+
